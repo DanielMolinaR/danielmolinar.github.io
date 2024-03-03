@@ -1,0 +1,100 @@
+baseURL = "http://www.DanielMolina.com"
+title = "Daniel Molina"
+theme = 'hugo-coder'
+languageCode = "es"
+defaultContentLanguage = "es"
+paginate = 6
+enableEmoji = true
+
+[markup.highlight]
+noClasses = false
+
+[params]
+author = "Daniel Molina"
+description = "Daniel Molina's personal website"
+keywords = "blog,developer,personal"
+info = ["Desarrollador de aplicaciones"]
+avatarURL = "images/avatar.jpg"
+dateFormat = "January 2, 2006"
+faviconSVG = ""
+since = 2024
+
+# Right To Left, shift content direction for languagues such as Arabic
+rtl = false
+
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "auto"
+
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+
+# Series see also post count
+maxSeeAlsoItems = 5
+
+enableTwemoji = true
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/DanielMolinaR/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/daniel-molinar/"
+
+[languages.es]
+languageName = "ES"
+
+[[languages.es.menu.main]]
+name = "Experiencia"
+weight = 1
+url = "experience/"
+
+[[languages.es.menu.main]]
+name = "Proyectos"
+weight = 2
+url = "projects/"
+
+[[languages.es.menu.main]]
+name = "Sobre mi"
+weight = 3
+url = "about/"
+
+[[languages.es.menu.main]]
+name = "Contacto"
+weight = 4
+url = "contact/"
+
+[languages.en]
+languageName = "EN"
+author = "Daniel Molina"
+info = "Application Developer"
+description = "Daniel Molina's personal website"
+keywords = "blog,develoepr,personal"
+
+[[languages.en.menu.main]]
+name = "Experience"
+weight = 1
+url = "experience/"
+
+[[languages.en.menu.main]]
+name = "Projetcs"
+weight = 2
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "About me"
+weight = 3
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 4
+url = "contact/"
