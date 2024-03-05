@@ -17,6 +17,9 @@ other = "authors"
 [posts]
 other = "posts"
 
+[projects]
+other = "projects"
+
 [reading_time]
 one = "One-minute read"
 other = "{{ .Count }}-minute read"

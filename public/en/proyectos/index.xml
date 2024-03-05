@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Daniel Molina</title>
-    <link>http://localhost:1313/en/projects/</link>
-    <description>Recent content in Projects on Daniel Molina</description>
+    <title>Proyectos on Daniel Molina</title>
+    <link>http://localhost:1313/en/proyectos/</link>
+    <description>Recent content in Proyectos on Daniel Molina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 03 Mar 2024 17:20:16 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/proyectos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crazy Pip Stop</title>
-      <link>http://localhost:1313/en/projects/crazy-pip-stop/</link>
+      <link>http://localhost:1313/en/proyectos/crazy-pip-stop/</link>
       <pubDate>Sun, 03 Mar 2024 17:20:16 +0100</pubDate>
-      <guid>http://localhost:1313/en/projects/crazy-pip-stop/</guid>
+      <guid>http://localhost:1313/en/proyectos/crazy-pip-stop/</guid>
       <description>Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile application is cross-platform and can be found on any version of iOS and Android devices.&#xA;The application isd used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules.</description>
     </item>
   </channel>

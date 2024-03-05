@@ -98,3 +98,6 @@ url = "about/"
 name = "Contact"
 weight = 4
 url = "contact/"
+
+[markup.goldmark.renderer]
+unsafe= true
