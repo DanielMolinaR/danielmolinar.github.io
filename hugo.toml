@@ -75,7 +75,7 @@ url = "contact/"
 [languages.en]
 languageName = "EN"
 author = "Daniel Molina"
-info = "Application Developer"
+info = ["Application Developer"]
 description = "Daniel Molina's personal website"
 keywords = "blog,develoepr,personal"
 
