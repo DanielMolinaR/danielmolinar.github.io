@@ -1,0 +1,30 @@
+<style>
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .videoRow {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .video {
+    width: 50%;
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .video {
+      width: 100%;
+      height: 100%;
+  }
+}
+
+</style>
+</head>
+<body>
+
+    <div class="videoRow">
+       {{ .Inner }}
+    </div>
+</body>
+</html>
