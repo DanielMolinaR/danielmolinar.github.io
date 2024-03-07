@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/proyectos/crazy-pip-stop/</loc>
+    <loc>http://localhost:1313/projects/cps/crazy-pip-stop/</loc>
     <lastmod>2024-03-03T17:20:16+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/proyectos/crazy-pip-stop/"
+                href="http://localhost:1313/en/projects/cps/crazy-pip-stop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/proyectos/crazy-pip-stop/"
+                href="http://localhost:1313/projects/cps/crazy-pip-stop/"
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -28,17 +28,17 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/proyectos/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-03-03T17:20:16+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/proyectos/"
+                href="http://localhost:1313/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/proyectos/"
+                href="http://localhost:1313/projects/"
                 />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

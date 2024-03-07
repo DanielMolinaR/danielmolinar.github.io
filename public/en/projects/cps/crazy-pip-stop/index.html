@@ -13,24 +13,27 @@
 
 
 <meta name="author" content="Daniel Molina">
-<meta name="description" content="Daniel Molina&#39;s personal website">
+<meta name="description" content="Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile application is cross-platform and can be found on any version of iOS and Android devices.
+The application is used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules.">
 <meta name="keywords" content="blog,develoepr,personal">
 
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Crazy Pip Stop"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile application is cross-platform and can be found on any version of iOS and Android devices.
+The application is used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules."/>
 
 <meta property="og:title" content="Crazy Pip Stop" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile application is cross-platform and can be found on any version of iOS and Android devices.
+The application is used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/en/crazy-pip-stop/" /><meta property="article:section" content="" />
-<meta property="article:published_time" content="2024-03-03T18:18:19+01:00" />
-<meta property="article:modified_time" content="2024-03-03T18:18:19+01:00" />
+<meta property="og:url" content="http://localhost:1313/en/projects/cps/crazy-pip-stop/" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2024-03-03T17:20:16+01:00" />
+<meta property="article:modified_time" content="2024-03-03T17:20:16+01:00" />
 
 
 
 
 
-<link rel="canonical" href="http://localhost:1313/en/crazy-pip-stop/">
+<link rel="canonical" href="http://localhost:1313/en/projects/cps/crazy-pip-stop/">
 
 
 <link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
@@ -132,8 +135,6 @@
           
           
             
-          
-            
               
                 <li class="navigation-item menu-separator">
                   <span>|</span>
@@ -141,7 +142,7 @@
                 
               
               <li class="navigation-item">
-                <a href="/">ES</a>
+                <a href="/projects/cps/crazy-pip-stop/">ES</a>
               </li>
             
           
@@ -158,13 +159,63 @@
   <article>
     <header>
       <h1 class="title">
-        <a class="title-link" href="http://localhost:1313/en/crazy-pip-stop/">
+        <a class="title-link" href="http://localhost:1313/en/projects/cps/crazy-pip-stop/">
           Crazy Pip Stop
         </a>
       </h1>
     </header>
 
-    
+    <p>Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile application is cross-platform and can be found on any version of iOS and Android devices.</p>
+<div style="text-align: center;">
+<img src="/assets/images/cps/home-cps-portrait.png"  alt="CPSHome" width="200"/>
+<div>
+<p>The application is used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules.</p>
+<video width="100%" height="100%" controls="yes" loop muted autoplay>
+  <source src="/assets/videos/cps/countdown_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<p>At the end, once the user has finished the game, a screen is shown with the final result followed by a celebration or defeat animation and audio.</p>
+<style>
+ 
+@media only screen and (min-width: 1200px) {
+  .videoRow {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .video {
+    width: 50%;
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .video {
+      width: 100%;
+      height: 100%;
+  }
+}
+
+</style>
+</head>
+<body>
+
+    <div class="videoRow">
+       
+    <video class="video" controls="yes" loop muted autoplay>
+    <source src="/assets/videos/cps/loosing_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+    <video class="video" controls="yes" loop muted autoplay>
+    <source src="/assets/videos/cps/winning_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+
+    </div>
+</body>
+</html>
+<p>Tech stack: React Native, Expo &amp; Nativewind (Tailwind)</p>
+
   </article>
 </section>
 
