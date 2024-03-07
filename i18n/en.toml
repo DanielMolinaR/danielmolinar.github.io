@@ -20,6 +20,9 @@ other = "posts"
 [projects]
 other = "projects"
 
+[experience]
+other = "experience"
+
 [reading_time]
 one = "One-minute read"
 other = "{{ .Count }}-minute read"
