@@ -12,7 +12,7 @@ Crazy Pip Stop es una aplicación móvil para el juego de mesa Crazy Pip Stop. E
 
 La aplicación consiste en un recurso de apoyo para el juego de mesa y el objetivo de esta es ofrecer distintos modos de juego los cuales comparten una cuenta atrás con música. Además, cada modo de juego tiene su propio contador de victorias y derrotas según las normas de juego.
 
-<video width="100%" height="420px" controls="yes" loop muted autoplay>
+<video width="200" controls="yes" loop muted autoplay>
   <source src="/assets/videos/cps/countdown_video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
