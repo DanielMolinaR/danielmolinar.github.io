@@ -12,10 +12,11 @@ Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile ap
 
 The application is used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules.
 
-<video width="100%" height="100%" controls="yes" loop muted autoplay>
+<video width="240" controls="yes" loop muted autoplay>
   <source src="/assets/videos/cps/countdown_video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
 
 At the end, once the user has finished the game, a screen is shown with the final result followed by a celebration or defeat animation and audio.
 
