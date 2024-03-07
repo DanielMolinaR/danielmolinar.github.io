@@ -21,6 +21,7 @@ other = "publicaciones"
 other = "proyectos"
 
 [experiences]
+one = "experiencia"
 other = "experiencias"
 
 [reading_time]
