@@ -101,3 +101,11 @@ url = "contact/"
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'assets'
+target = 'static/assets'
