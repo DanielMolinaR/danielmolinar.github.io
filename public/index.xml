@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/projects/cps/crazy-pip-stop/</guid>
       <description>Crazy Pip Stop es una aplicación móvil para el juego de mesa Crazy Pip Stop. Esta aplicación móvil es multiplataforma y se puede encontrar en cualquier versión de dispositivos iOS y Android.&#xA;La aplicación consiste en un recurso de apoyo para el juego de mesa y el objetivo de esta es ofrecer distintos modos de juego los cuales comparten una cuenta atrás con música. Además, cada modo de juego tiene su propio contador de victorias y derrotas según las normas de juego.</description>
     </item>
+    <item>
+      <title>Taiger</title>
+      <link>http://localhost:1313/experience/taiger/taiger/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/taiger/taiger/</guid>
+      <description>Nivel de experiencia: JUNIOR&#xA;Durante mi tiempo en Taiger, al incio me dediqué principalmente a realizar scripts en Python para automatización y tareas de DevOps tales como:&#xA;Despliegues en servidores de cliente Despliegues en la nube, mayoritariamente en Azure pero también trabaje con AWS y GCP. Gestión de imágenes de Docker y creación de cluster de kubernetes Más tarde se me asignó un proyecto de desarrollo para nuestro mayor cliente en aquel momento.</description>
+    </item>
   </channel>
 </rss>
