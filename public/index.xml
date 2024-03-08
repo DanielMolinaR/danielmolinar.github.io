@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crazy Pip Stop</title>
-      <link>http://localhost:1313/projects/cps/crazy-pip-stop/</link>
+      <link>http://localhost:1313/projects/crazy-pip-stop/</link>
       <pubDate>Sun, 03 Mar 2024 17:20:16 +0100</pubDate>
-      <guid>http://localhost:1313/projects/cps/crazy-pip-stop/</guid>
+      <guid>http://localhost:1313/projects/crazy-pip-stop/</guid>
       <description>Crazy Pip Stop es una aplicación móvil para el juego de mesa Crazy Pip Stop. Esta aplicación móvil es multiplataforma y se puede encontrar en cualquier versión de dispositivos iOS y Android.&#xA;La aplicación consiste en un recurso de apoyo para el juego de mesa y el objetivo de esta es ofrecer distintos modos de juego los cuales comparten una cuenta atrás con música. Además, cada modo de juego tiene su propio contador de victorias y derrotas según las normas de juego.</description>
     </item>
     <item>
@@ -21,6 +21,13 @@
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/taiger/taiger/</guid>
       <description>Nivel de experiencia: JUNIOR&#xA;Durante mi tiempo en Taiger, al incio me dediqué principalmente a realizar scripts en Python para automatización y tareas de DevOps tales como:&#xA;Despliegues en servidores de cliente Despliegues en la nube, mayoritariamente en Azure pero también trabaje con AWS y GCP. Gestión de imágenes de Docker y creación de cluster de kubernetes Más tarde se me asignó un proyecto de desarrollo para nuestro mayor cliente en aquel momento.</description>
+    </item>
+    <item>
+      <title>CRM para clínica de fisioterapia</title>
+      <link>http://localhost:1313/projects/fortia/</link>
+      <pubDate>Sat, 15 May 2021 17:20:16 +0100</pubDate>
+      <guid>http://localhost:1313/projects/fortia/</guid>
+      <description>El proyecto que desarrollé consiste en un CRM (Customer Relationship Management) para una clínica de fisioterapia. La motivación detrás de este proyecto fue crear una herramienta que simplificara la gestión de usuarios, citas y ejercicios programados, optimizando así la eficiencia y la calidad del servicio proporcionado por la clínica.&#xA;La aplicación se diseñó para ser utilizada por tres tipos diferentes de usuarios: pacientes, empleados y administradores. Cada uno de estos roles tiene diferentes niveles de acceso y privilegios en la plataforma.</description>
     </item>
   </channel>
 </rss>
