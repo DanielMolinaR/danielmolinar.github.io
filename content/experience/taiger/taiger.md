@@ -4,7 +4,7 @@ date = 2021-07-01
 draft = false
 +++
 
-Nivel de experiencia: JUNIOR
+Nivel de experiencia **\< JUNIOR />**
 
 Durante mi tiempo en Taiger, al incio me dediqué principalmente a realizar scripts en **Python** para automatización y tareas de **DevOps** tales como:
 

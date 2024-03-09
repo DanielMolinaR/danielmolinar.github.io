@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experiences on Daniel Molina</title>
+    <title>Experiences on &lt;Daniel Molina/&gt;</title>
     <link>http://localhost:1313/experience/</link>
-    <description>Recent content in Experiences on Daniel Molina</description>
+    <description>Recent content in Experiences on &lt;Daniel Molina/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/experience/taiger/taiger/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/taiger/taiger/</guid>
-      <description>Nivel de experiencia: JUNIOR&#xA;Durante mi tiempo en Taiger, al incio me dediqué principalmente a realizar scripts en Python para automatización y tareas de DevOps tales como:&#xA;Despliegues en servidores de cliente Despliegues en la nube, mayoritariamente en Azure pero también trabaje con AWS y GCP. Gestión de imágenes de Docker y creación de cluster de kubernetes Más tarde se me asignó un proyecto de desarrollo para nuestro mayor cliente en aquel momento.</description>
+      <description>Nivel de experiencia &amp;lt; JUNIOR /&amp;gt;&#xA;Durante mi tiempo en Taiger, al incio me dediqué principalmente a realizar scripts en Python para automatización y tareas de DevOps tales como:&#xA;Despliegues en servidores de cliente Despliegues en la nube, mayoritariamente en Azure pero también trabaje con AWS y GCP. Gestión de imágenes de Docker y creación de cluster de kubernetes Más tarde se me asignó un proyecto de desarrollo para nuestro mayor cliente en aquel momento.</description>
     </item>
   </channel>
 </rss>
