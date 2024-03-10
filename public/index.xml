@@ -16,6 +16,13 @@
       <description>Crazy Pip Stop es una aplicación móvil para el juego de mesa Crazy Pip Stop. Esta aplicación móvil es multiplataforma y se puede encontrar en cualquier versión de dispositivos iOS y Android.&#xA;La aplicación consiste en un recurso de apoyo para el juego de mesa y el objetivo de esta es ofrecer distintos modos de juego los cuales comparten una cuenta atrás con música. Además, cada modo de juego tiene su propio contador de victorias y derrotas según las normas de juego.</description>
     </item>
     <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Si has visto algo en mi perfil que te interesa, quieres desarrollar un producto o que simplemente charlemos&amp;hellip;&#xA;📫 Puedes contactarme a: daniel.molina.rub@gmail.com</description>
+    </item>
+    <item>
       <title>Sobre mi</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>

@@ -20,7 +20,14 @@
       <link>http://localhost:1313/en/about/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/about/</guid>
-      <description>Hey I&amp;rsquo;m Sani</description>
+      <description> 👋 Hi, I&amp;rsquo;m Dani 👀 I&amp;rsquo;m interested in software development &amp;#x1f4bb;, AI &amp;#x1f916; and finance &amp;#x1f4b8; 🌱 I&amp;rsquo;m currently developing multiplatform mobile applications &amp;#x1f4f1;, learning blockchain and improving my knowledge in long term investing &amp;#x1f4c8; 💞️ I&amp;rsquo;m always looking to collaborate on Go, AI or mobile application projects &amp;#x1f9d1;&amp;zwj;&amp;#x1f4bb; </description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description>If you&amp;rsquo;ve seen something on my profile that caught your interests, you want me to develop a product or just want to chat&amp;hellip;&#xA;📫 How to reach me daniel.molina.rub@gmail.com</description>
     </item>
     <item>
       <title>Taiger</title>
