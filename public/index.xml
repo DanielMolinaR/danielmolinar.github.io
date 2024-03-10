@@ -16,10 +16,17 @@
       <description>Crazy Pip Stop es una aplicación móvil para el juego de mesa Crazy Pip Stop. Esta aplicación móvil es multiplataforma y se puede encontrar en cualquier versión de dispositivos iOS y Android.&#xA;La aplicación consiste en un recurso de apoyo para el juego de mesa y el objetivo de esta es ofrecer distintos modos de juego los cuales comparten una cuenta atrás con música. Además, cada modo de juego tiene su propio contador de victorias y derrotas según las normas de juego.</description>
     </item>
     <item>
+      <title>Sobre mi</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description> 👋 Hola! Soy Dani 👀 Me interesa el desarrollo de software &amp;#x1f4bb;, la inteligencia artificial &amp;#x1f916; y las finanzas &amp;#x1f4b8; 🌱 Actualmente estoy creando aplicaciones móviles multiplataforma &amp;#x1f4f1;, aprendiendo a codificar blockchain e inversión a largo plazo &amp;#x1f4c8; 💞️ Me interesa colaborar en proyectos que involucre el uso y la exploración de GO, la AI o el desarrollo de aplicaciones móviles &amp;#x1f9d1;&amp;zwj;&amp;#x1f4bb; </description>
+    </item>
+    <item>
       <title>Taiger</title>
-      <link>http://localhost:1313/experience/taiger/taiger/</link>
+      <link>http://localhost:1313/experience/taiger/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/taiger/taiger/</guid>
+      <guid>http://localhost:1313/experience/taiger/</guid>
       <description>Nivel de experiencia &amp;lt; JUNIOR /&amp;gt;&#xA;Durante mi tiempo en Taiger, al incio me dediqué principalmente a realizar scripts en Python para automatización y tareas de DevOps tales como:&#xA;Despliegues en servidores de cliente Despliegues en la nube, mayoritariamente en Azure pero también trabaje con AWS y GCP. Gestión de imágenes de Docker y creación de cluster de kubernetes Más tarde se me asignó un proyecto de desarrollo para nuestro mayor cliente en aquel momento.</description>
     </item>
     <item>

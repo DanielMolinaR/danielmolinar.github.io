@@ -16,10 +16,17 @@
       <description>Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile application is cross-platform and can be found on any version of iOS and Android devices.&#xA;The application is used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules.</description>
     </item>
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>Hey I&amp;rsquo;m Sani</description>
+    </item>
+    <item>
       <title>Taiger</title>
-      <link>http://localhost:1313/en/experience/taiger/taiger/</link>
+      <link>http://localhost:1313/en/experience/taiger/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/experience/taiger/taiger/</guid>
+      <guid>http://localhost:1313/en/experience/taiger/</guid>
       <description></description>
     </item>
     <item>

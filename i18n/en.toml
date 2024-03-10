@@ -20,8 +20,9 @@ other = "posts"
 [projects]
 other = "projects"
 
-[experience]
-other = "experience"
+[experiences]
+one = "experience"
+other = "experiences"
 
 [reading_time]
 one = "One-minute read"
