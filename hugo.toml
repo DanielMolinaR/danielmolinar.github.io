@@ -16,7 +16,10 @@ keywords = "blog,developer,personal"
 info = ["Desarrollador de aplicaciones"]
 avatarURL = "assets/images/profile.jpg"
 dateFormat = "January 2, 2006"
-faviconSVG = ""
+faviconSVG = "assets/images/(dm-).jpg"
+favicon_32 = "assets/images/(dm-).jpg"
+favicon_16 = "assets/images/(dm-).jpg"
+
 since = 2024
 
 # Right To Left, shift content direction for languagues such as Arabic
