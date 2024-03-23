@@ -2,151 +2,148 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>http://www.DanielMolina.com/en/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/"
+                href="http://www.DanielMolina.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="http://www.DanielMolina.com/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/proposals/padelshop/</loc>
+    <loc>http://www.DanielMolina.com/en/padelshop/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/proposals/</loc>
-    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/projects/crazy-pit-stop/</loc>
+    <loc>http://www.DanielMolina.com/en/projects/crazy-pit-stop/</loc>
     <lastmod>2024-03-03T17:20:16+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/projects/crazy-pit-stop/"
+                href="http://www.DanielMolina.com/projects/crazy-pit-stop/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/projects/crazy-pit-stop/"
+                href="http://www.DanielMolina.com/en/projects/crazy-pit-stop/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/</loc>
+    <loc>http://www.DanielMolina.com/en/projects/</loc>
     <lastmod>2024-03-03T17:20:16+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/projects/"
+                href="http://www.DanielMolina.com/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/projects/"
+                href="http://www.DanielMolina.com/en/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>http://www.DanielMolina.com/en/about/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/about/"
+                href="http://www.DanielMolina.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="http://www.DanielMolina.com/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>http://www.DanielMolina.com/en/contact/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/contact/"
+                href="http://www.DanielMolina.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="http://www.DanielMolina.com/en/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/experience/</loc>
+    <loc>http://www.DanielMolina.com/en/experience/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/experience/"
+                href="http://www.DanielMolina.com/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/experience/"
+                href="http://www.DanielMolina.com/en/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/experience/ing/</loc>
+    <loc>http://www.DanielMolina.com/en/experience/ing/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/experience/ing/"
+                href="http://www.DanielMolina.com/experience/ing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/experience/ing/"
+                href="http://www.DanielMolina.com/en/experience/ing/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/experience/taiger/</loc>
+    <loc>http://www.DanielMolina.com/en/experience/taiger/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/experience/taiger/"
+                href="http://www.DanielMolina.com/experience/taiger/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/experience/taiger/"
+                href="http://www.DanielMolina.com/en/experience/taiger/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/projects/fortia/</loc>
+    <loc>http://www.DanielMolina.com/en/projects/fortia/</loc>
     <lastmod>2021-05-15T17:20:16+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/projects/fortia/"
+                href="http://www.DanielMolina.com/projects/fortia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/projects/fortia/"
+                href="http://www.DanielMolina.com/en/projects/fortia/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>http://www.DanielMolina.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/categories/"
+                href="http://www.DanielMolina.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="http://www.DanielMolina.com/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>http://www.DanielMolina.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/tags/"
+                href="http://www.DanielMolina.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://www.DanielMolina.com/en/tags/"
                 />
   </url>
 </urlset>
