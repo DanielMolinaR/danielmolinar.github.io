@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on &lt;Daniel Molina/&gt;</title>
-    <link>http://www.DanielMolina.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on &lt;Daniel Molina/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 03 Mar 2024 17:20:16 +0100</lastBuildDate>
-    <atom:link href="http://www.DanielMolina.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crazy Pit Stop</title>
-      <link>http://www.DanielMolina.com/projects/crazy-pit-stop/</link>
+      <link>http://localhost:1313/projects/crazy-pit-stop/</link>
       <pubDate>Sun, 03 Mar 2024 17:20:16 +0100</pubDate>
-      <guid>http://www.DanielMolina.com/projects/crazy-pit-stop/</guid>
+      <guid>http://localhost:1313/projects/crazy-pit-stop/</guid>
       <description>Crazy Pip Stop es una aplicación móvil para el juego de mesa Crazy Pip Stop. Esta aplicación móvil es multiplataforma y se puede encontrar en cualquier versión de dispositivos iOS y Android.&#xA;La aplicación consiste en un recurso de apoyo para el juego de mesa y el objetivo de esta es ofrecer distintos modos de juego los cuales comparten una cuenta atrás con música. Además, cada modo de juego tiene su propio contador de victorias y derrotas según las normas de juego.</description>
     </item>
     <item>
       <title>CRM para clínica de fisioterapia</title>
-      <link>http://www.DanielMolina.com/projects/fortia/</link>
+      <link>http://localhost:1313/projects/fortia/</link>
       <pubDate>Sat, 15 May 2021 17:20:16 +0100</pubDate>
-      <guid>http://www.DanielMolina.com/projects/fortia/</guid>
+      <guid>http://localhost:1313/projects/fortia/</guid>
       <description>El proyecto que desarrollé consiste en un CRM (Customer Relationship Management) para una clínica de fisioterapia. La motivación detrás de este proyecto fue crear una herramienta que simplificara la gestión de usuarios, citas y ejercicios programados, optimizando así la eficiencia y la calidad del servicio proporcionado por la clínica.&#xA;La aplicación se diseñó para ser utilizada por tres tipos diferentes de usuarios: pacientes, empleados y administradores. Cada uno de estos roles tiene diferentes niveles de acceso y privilegios en la plataforma.</description>
     </item>
   </channel>
