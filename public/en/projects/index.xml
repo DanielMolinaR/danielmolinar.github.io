@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on &lt;Daniel Molina/&gt;</title>
-    <link>http://localhost:1313/en/projects/</link>
+    <link>http://www.DanielMolina.com/en/projects/</link>
     <description>Recent content in Projects on &lt;Daniel Molina/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 03 Mar 2024 17:20:16 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.DanielMolina.com/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crazy Pit Stop</title>
-      <link>http://localhost:1313/en/projects/crazy-pit-stop/</link>
+      <link>http://www.DanielMolina.com/en/projects/crazy-pit-stop/</link>
       <pubDate>Sun, 03 Mar 2024 17:20:16 +0100</pubDate>
-      <guid>http://localhost:1313/en/projects/crazy-pit-stop/</guid>
+      <guid>http://www.DanielMolina.com/en/projects/crazy-pit-stop/</guid>
       <description>Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile application is cross-platform and can be found on any version of iOS and Android devices.&#xA;The application is used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules.</description>
     </item>
     <item>
       <title>CRM for physiotherapy clinic</title>
-      <link>http://localhost:1313/en/projects/fortia/</link>
+      <link>http://www.DanielMolina.com/en/projects/fortia/</link>
       <pubDate>Sat, 15 May 2021 17:20:16 +0100</pubDate>
-      <guid>http://localhost:1313/en/projects/fortia/</guid>
+      <guid>http://www.DanielMolina.com/en/projects/fortia/</guid>
       <description>The project I undertook involved the development of a comprehensive CRM (Customer Relationship Management) system tailored specifically for a physiotherapy clinic. The primary objective was to create an integrated toolset capable of streamlining the management processes associated with users, appointments, and prescribed exercises, ultimately enhancing the clinic&amp;rsquo;s operational efficiency and service quality.&#xA;This CRM system caters to three distinct user categories: patients, employees, and administrators. Each category has been endowed with specific privileges and access levels within the system.</description>
     </item>
   </channel>
