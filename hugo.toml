@@ -1,3 +1,5 @@
+staticDir = ['assets']
+
 baseURL = "http://www.DanielMolina.com"
 title = "<Daniel Molina/>"
 theme = 'hugo-coder'
