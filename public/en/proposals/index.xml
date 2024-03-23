@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proposals on &lt;Daniel Molina/&gt;</title>
-    <link>http://localhost:1313/en/proposals/</link>
+    <link>http://www.DanielMolina.com/en/proposals/</link>
     <description>Recent content in Proposals on &lt;Daniel Molina/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/en/proposals/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.DanielMolina.com/en/proposals/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/en/proposals/padelshop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/proposals/padelshop/</guid>
-      <description></description>
+      <title>Padel Shop</title>
+      <link>http://www.DanielMolina.com/en/proposals/padelshop/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.DanielMolina.com/en/proposals/padelshop/</guid>
+      <description>Project overview:&#xD;Link to heading&#xD;Padel Shop is a web shop focused on selling padel goods such as rackets, clothes and other products. Padel Shop&amp;rsquo;s website is one of the leading online destinations for all things related to padel sport, catering to a diverse community of enthusiasts and professionals alike. With the here presented idea the process of shopping a padel racket would be easier and more engaging with the end customer leading to an improvement in sales and a better user experience and decision-making which will translate in customers&amp;rsquo; loyalty and competitors differentiation.</description>
     </item>
   </channel>
 </rss>

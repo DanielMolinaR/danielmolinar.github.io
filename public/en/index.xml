@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&lt;Daniel Molina/&gt;</title>
-    <link>http://localhost:1313/en/</link>
+    <link>http://www.DanielMolina.com/en/</link>
     <description>Recent content on &lt;Daniel Molina/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.DanielMolina.com/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Padel Shop</title>
-      <link>http://localhost:1313/en/proposals/padelshop/</link>
+      <link>http://www.DanielMolina.com/en/proposals/padelshop/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/proposals/padelshop/</guid>
+      <guid>http://www.DanielMolina.com/en/proposals/padelshop/</guid>
       <description>Project overview:&#xD;Link to heading&#xD;Padel Shop is a web shop focused on selling padel goods such as rackets, clothes and other products. Padel Shop&amp;rsquo;s website is one of the leading online destinations for all things related to padel sport, catering to a diverse community of enthusiasts and professionals alike. With the here presented idea the process of shopping a padel racket would be easier and more engaging with the end customer leading to an improvement in sales and a better user experience and decision-making which will translate in customers&amp;rsquo; loyalty and competitors differentiation.</description>
     </item>
     <item>
       <title>Crazy Pit Stop</title>
-      <link>http://localhost:1313/en/projects/crazy-pit-stop/</link>
+      <link>http://www.DanielMolina.com/en/projects/crazy-pit-stop/</link>
       <pubDate>Sun, 03 Mar 2024 17:20:16 +0100</pubDate>
-      <guid>http://localhost:1313/en/projects/crazy-pit-stop/</guid>
+      <guid>http://www.DanielMolina.com/en/projects/crazy-pit-stop/</guid>
       <description>Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile application is cross-platform and can be found on any version of iOS and Android devices.&#xA;The application is used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/en/about/</link>
+      <link>http://www.DanielMolina.com/en/about/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
+      <guid>http://www.DanielMolina.com/en/about/</guid>
       <description> 👋 Hi, I&amp;rsquo;m Dani 👀 I&amp;rsquo;m interested in software development &amp;#x1f4bb;, AI &amp;#x1f916; and finance &amp;#x1f4b8; 🎾 I&amp;rsquo;m a padel enthusiast. 🌱 I&amp;rsquo;m currently developing multiplatform mobile applications &amp;#x1f4f1;, learning blockchain and improving my knowledge in long term investing &amp;#x1f4c8; 💞️ I&amp;rsquo;m always looking to collaborate on Go, AI or mobile application projects &amp;#x1f9d1;&amp;zwj;&amp;#x1f4bb; </description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/en/contact/</link>
+      <link>http://www.DanielMolina.com/en/contact/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/contact/</guid>
+      <guid>http://www.DanielMolina.com/en/contact/</guid>
       <description>If you&amp;rsquo;ve seen something on my profile that caught your interests, you want me to develop a product or just want to chat&amp;hellip;&#xA;📫 How to reach me daniel.molina.rub@gmail.com</description>
     </item>
     <item>
       <title>ING Nederland</title>
-      <link>http://localhost:1313/en/experience/ing/</link>
+      <link>http://www.DanielMolina.com/en/experience/ing/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/experience/ing/</guid>
+      <guid>http://www.DanielMolina.com/en/experience/ing/</guid>
       <description>Experience level &amp;lt; MEDIOR /&amp;gt;&#xA;As a Software Engineer at ING Bank, I&amp;rsquo;ve been on a thrilling journey of innovation and problem-solving since August 2022. My primary focus has been on harnessing the power of Golang to develop a robust API. This API plays a pivotal role in streamlining first-day and second-day business operations, serving as the backbone of efficiency for our team.&#xA;In our pursuit of excellence, my team and I have meticulously integrated essential elements such as logging, tracing, testing, and security scanning into our development process.</description>
     </item>
     <item>
       <title>Taiger</title>
-      <link>http://localhost:1313/en/experience/taiger/</link>
+      <link>http://www.DanielMolina.com/en/experience/taiger/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/experience/taiger/</guid>
+      <guid>http://www.DanielMolina.com/en/experience/taiger/</guid>
       <description>Experience level &amp;lt; JUNIOR /&amp;gt;&#xA;In my beginings at Taiger I focused in automation scripting with Python and DevOps tasks such as:&#xA;Client side deployments Cloud deployments in the main cloud providers like AWS, GCP and Azure mainly Docker&amp;rsquo;s images management and kubernetes suites creation Lately I was assigned a development project for our biggest client at that moment. Together with the team we developed a service in Kotlin which consumed Azure&amp;rsquo;s and our main product&amp;rsquo;s API.</description>
     </item>
     <item>
       <title>CRM for physiotherapy clinic</title>
-      <link>http://localhost:1313/en/projects/fortia/</link>
+      <link>http://www.DanielMolina.com/en/projects/fortia/</link>
       <pubDate>Sat, 15 May 2021 17:20:16 +0100</pubDate>
-      <guid>http://localhost:1313/en/projects/fortia/</guid>
+      <guid>http://www.DanielMolina.com/en/projects/fortia/</guid>
       <description>The project I undertook involved the development of a comprehensive CRM (Customer Relationship Management) system tailored specifically for a physiotherapy clinic. The primary objective was to create an integrated toolset capable of streamlining the management processes associated with users, appointments, and prescribed exercises, ultimately enhancing the clinic&amp;rsquo;s operational efficiency and service quality.&#xA;This CRM system caters to three distinct user categories: patients, employees, and administrators. Each category has been endowed with specific privileges and access levels within the system.</description>
     </item>
   </channel>

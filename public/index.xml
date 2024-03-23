@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&lt;Daniel Molina/&gt;</title>
-    <link>http://localhost:1313/</link>
+    <link>http://www.DanielMolina.com/</link>
     <description>Recent content on &lt;Daniel Molina/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 03 Mar 2024 17:20:16 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.DanielMolina.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crazy Pit Stop</title>
-      <link>http://localhost:1313/projects/crazy-pit-stop/</link>
+      <link>http://www.DanielMolina.com/projects/crazy-pit-stop/</link>
       <pubDate>Sun, 03 Mar 2024 17:20:16 +0100</pubDate>
-      <guid>http://localhost:1313/projects/crazy-pit-stop/</guid>
+      <guid>http://www.DanielMolina.com/projects/crazy-pit-stop/</guid>
       <description>Crazy Pip Stop es una aplicación móvil para el juego de mesa Crazy Pip Stop. Esta aplicación móvil es multiplataforma y se puede encontrar en cualquier versión de dispositivos iOS y Android.&#xA;La aplicación consiste en un recurso de apoyo para el juego de mesa y el objetivo de esta es ofrecer distintos modos de juego los cuales comparten una cuenta atrás con música. Además, cada modo de juego tiene su propio contador de victorias y derrotas según las normas de juego.</description>
     </item>
     <item>
       <title>Contacto</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://www.DanielMolina.com/contact/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://www.DanielMolina.com/contact/</guid>
       <description>Si has visto algo en mi perfil que te interesa, quieres desarrollar un producto o que simplemente charlemos&amp;hellip;&#xA;📫 Puedes contactarme a: daniel.molina.rub@gmail.com</description>
     </item>
     <item>
       <title>Sobre mi</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://www.DanielMolina.com/about/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://www.DanielMolina.com/about/</guid>
       <description> 👋 Hola! Soy Dani 👀 Me interesa el desarrollo de software &amp;#x1f4bb;, la inteligencia artificial &amp;#x1f916; y las finanzas &amp;#x1f4b8; 🌱 Actualmente estoy creando aplicaciones móviles multiplataforma &amp;#x1f4f1;, aprendiendo a codificar blockchain e inversión a largo plazo &amp;#x1f4c8; 💞️ Me interesa colaborar en proyectos que involucre el uso y la exploración de GO, la AI o el desarrollo de aplicaciones móviles &amp;#x1f9d1;&amp;zwj;&amp;#x1f4bb; </description>
     </item>
     <item>
       <title>ING Nederland</title>
-      <link>http://localhost:1313/experience/ing/</link>
+      <link>http://www.DanielMolina.com/experience/ing/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/ing/</guid>
+      <guid>http://www.DanielMolina.com/experience/ing/</guid>
       <description>Nivel de experiencia &amp;lt; MEDIOR /&amp;gt;&#xA;Como ingeniero de software en ING Bank, he emprendido un emocionante viaje de innovación y resolución de problemas desde agosto de 2022. Mi enfoque principal ha sido aprovechar el poder de Golang para desarrollar una API robusta. Esta API desempeña un papel fundamental en la optimización de las operaciones internas del primer y segundo día, y sirve como columna vertebral de la eficiencia de nuestro equipo.</description>
     </item>
     <item>
       <title>Taiger</title>
-      <link>http://localhost:1313/experience/taiger/</link>
+      <link>http://www.DanielMolina.com/experience/taiger/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/taiger/</guid>
+      <guid>http://www.DanielMolina.com/experience/taiger/</guid>
       <description>Nivel de experiencia &amp;lt; JUNIOR /&amp;gt;&#xA;Durante mi tiempo en Taiger, al incio me dediqué principalmente a realizar scripts en Python para automatización y tareas de DevOps tales como:&#xA;Despliegues en servidores de cliente Despliegues en la nube, mayoritariamente en Azure pero también trabaje con AWS y GCP. Gestión de imágenes de Docker y creación de cluster de kubernetes Más tarde se me asignó un proyecto de desarrollo para nuestro mayor cliente en aquel momento.</description>
     </item>
     <item>
       <title>CRM para clínica de fisioterapia</title>
-      <link>http://localhost:1313/projects/fortia/</link>
+      <link>http://www.DanielMolina.com/projects/fortia/</link>
       <pubDate>Sat, 15 May 2021 17:20:16 +0100</pubDate>
-      <guid>http://localhost:1313/projects/fortia/</guid>
+      <guid>http://www.DanielMolina.com/projects/fortia/</guid>
       <description>El proyecto que desarrollé consiste en un CRM (Customer Relationship Management) para una clínica de fisioterapia. La motivación detrás de este proyecto fue crear una herramienta que simplificara la gestión de usuarios, citas y ejercicios programados, optimizando así la eficiencia y la calidad del servicio proporcionado por la clínica.&#xA;La aplicación se diseñó para ser utilizada por tres tipos diferentes de usuarios: pacientes, empleados y administradores. Cada uno de estos roles tiene diferentes niveles de acceso y privilegios en la plataforma.</description>
     </item>
   </channel>
