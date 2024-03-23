@@ -111,4 +111,4 @@ target = 'static'
 
 [[module.mounts]]
 source = 'assets'
-target = 'static/assets'
+target = 'assets'
