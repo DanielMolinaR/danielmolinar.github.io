@@ -12,16 +12,18 @@ draft = false
 
 Buying a padel racket is not an easy decision. They can be expensive and once you used it for the first time you cannot return it. Therefore, customers expend long hours researching the best racket for them and which one is best tailored to their play style. While pursuing an end goal of improving the customer experience and decision-making hereby is offered a solution which will fulfill those needs. With a **custom-made scatter graph** over an organized layout and where each racket would take place depending on some useful game play measurements, the end customers would be able to filter rackets depending on their needs and desires.
 
-<figure style="text-align: center;">
-    <img src="/images/padelshop/graph-example.png"  alt="Graph example" width="500"/>
-    <figcaption>Example - rackets graph</figcaption>
-<figure>
+<div>
+    <figure style="text-align: center;">
+        <img src="/assets/images/padelshop/graph-example.png"  alt="Graph example" width="500"/>
+        <figcaption>Example - rackets graph</figcaption>
+    <figure>
+</div>
 
 The graph, filters and a list of the actual rackets represented in the graph would be added in Padelshop website allowing the users to enhance their ideal padel racket research. This way the users would apply filters depending on their needs and while hovering over each remaining padel racket in the graph or going to the bottom list the user would be able to read a small piece of information about the racket and click it to be redirected to the end product. Furthermore, this latest connectivity will **improve the sales funnel** by offering better results to the clients and **gamify the sales target** while **keeping the website's SEO in line**.
 
 <div>
     <figure style="text-align: center;">
-        <img src="/images/padelshop/website-mockup.png"  alt="website-mockup" width="500"/>
+        <img src="/assets/images/padelshop/website-mockup.png"  alt="website-mockup" width="500"/>
         <figcaption>Website's mockup</figcaption>
     <figure>
 </div>
