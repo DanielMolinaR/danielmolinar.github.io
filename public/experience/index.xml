@@ -6,8 +6,15 @@
     <description>Recent content in Experiences on &lt;Daniel Molina/&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ING Nederland</title>
+      <link>http://localhost:1313/experience/ing/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/ing/</guid>
+      <description>Nivel de experiencia &amp;lt; MEDIOR /&amp;gt;&#xA;Como ingeniero de software en ING Bank, he emprendido un emocionante viaje de innovación y resolución de problemas desde agosto de 2022. Mi enfoque principal ha sido aprovechar el poder de Golang para desarrollar una API robusta. Esta API desempeña un papel fundamental en la optimización de las operaciones internas del primer y segundo día, y sirve como columna vertebral de la eficiencia de nuestro equipo.</description>
+    </item>
     <item>
       <title>Taiger</title>
       <link>http://localhost:1313/experience/taiger/</link>

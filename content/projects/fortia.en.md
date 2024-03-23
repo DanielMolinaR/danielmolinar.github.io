@@ -8,9 +8,19 @@ The project I undertook involved the development of a comprehensive [CRM](https:
 
 This CRM system caters to three distinct user categories: **patients, employees, and administrators**. Each category has been endowed with **specific privileges and access levels within the system**. Administrators enjoy comprehensive control over user management, appointment scheduling, and exercise administration. Employees, on the other hand, are tasked with managing appointments and patient-related activities assigned to them, whereas patients have the autonomy to oversee their individual appointment bookings, exercise regimens, and personal account details.
 
+<figure style="text-align: center;">
+    <img src="/assets/images/fortia/views.png"  alt="Different users' views" width="500"/>
+    <figcaption>View from each type of user</figcaption>
+<figure>
+
 Security is of paramount importance, and as such, an array of measures has been implemented to safeguard sensitive data. These include **token-based authentication mechanisms** as defined in the protocol [OAuth2.0](https://oauth.net/2/), data encryption protocols, and email verification procedures for new user registrations, ensuring the integrity and confidentiality of information stored within the system.
 
 The development of the application involved a bifurcated approach encompassing both [frontend](https://github.com/DanielMolinaR/front-fisioterapia) and [backend](https://github.com/DanielMolinaR/API-REST) components. Vuetify, a Vue.js-based material design framework, was employed for crafting the frontend interface. Leveraging Vuetify facilitated the creation of an intuitive, visually appealing **reponsive** user interface that seamlessly adapts to various devices, be it **desktops or mobile devices**. Meanwhile, the backend logic was constructed using **Go**, a programming language renowned for its performance and concurrency capabilities. Communication between the frontend and the backend is done through a **RESTful API**, which is responsible for handling requests and responses between both parties.
+
+<figure style="text-align: center;">
+    <img src="/assets/images/fortia/responsive-example.png"  alt="Example of the website's responsiveness" width="500"/>
+    <figcaption>Example of the website's responsiveness</figcaption>
+<figure>
 
 The database used to store the application information is **PostgreSQL**, which offers robustness and security in data management. In addition, **KeyCloak** was integrated for user account management and the generation of access tokens and refresh tokens, following the OAuth 2.0 protocol to guarantee security in user authentication and authorization.
 
