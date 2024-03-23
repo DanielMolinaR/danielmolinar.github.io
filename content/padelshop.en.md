@@ -14,7 +14,7 @@ Buying a padel racket is not an easy decision. They can be expensive and once yo
 
 <div>
     <figure style="text-align: center;">
-        <img src="/assets/images/padelshop/graph-example.png"  alt="Graph example" width="500"/>
+        <img src="/assets/images/padelshop/graph-example.PNG"  alt="Graph example" width="500"/>
         <figcaption>Example - rackets graph</figcaption>
     <figure>
 </div>
@@ -23,7 +23,7 @@ The graph, filters and a list of the actual rackets represented in the graph wou
 
 <div>
     <figure style="text-align: center;">
-        <img src="/assets/images/padelshop/website-mockup.png"  alt="website-mockup" width="500"/>
+        <img src="/assets/images/padelshop/website-mockup.PNG"  alt="website-mockup" width="500"/>
         <figcaption>Website's mockup</figcaption>
     <figure>
 </div>
