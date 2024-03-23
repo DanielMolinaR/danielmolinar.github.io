@@ -1,23 +1,24 @@
 +++
-title = 'Crazy Pip Stop'
+title = 'Crazy Pit Stop'
 date = 2024-03-03T17:20:16+01:00
 draft = false
 +++
 
-Crazy Pip Stop es una aplicación móvil para el juego de mesa Crazy Pip Stop. Esta aplicación móvil es multiplataforma y se puede encontrar en cualquier versión de dispositivos iOS y Android.
+Crazy Pip Stop is a mobile app for the Crazy Pip Stop board game. This mobile application is cross-platform and can be found on any version of iOS and Android devices.
 
 <div style="text-align: center;">
 <img src="/assets/images/cps/home-cps-portrait.png"  alt="CPSHome" width="200"/>
 <div>
 
-La aplicación consiste en un recurso de apoyo para el juego de mesa y el objetivo de esta es ofrecer distintos modos de juego los cuales comparten una cuenta atrás con música. Además, cada modo de juego tiene su propio contador de victorias y derrotas según las normas de juego.
+The application is used as a support resource for the board game and its main objective is to offer different game modes which each of them share a countdown with music. In addition, each game mode has its own victory and loss points counter according to the game rules.
 
 <video width="240" controls="yes" loop muted autoplay>
   <source src="/assets/videos/cps/countdown_video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-Finalmente, una vez el usuario ha ganado o perdido la partida se le muestra una pantalla con el resultado final de la partida acompañada de animaciones de celebración o de derrota y audios con la misma temática.
+
+At the end, once the user has finished the game, a screen is shown with the final result followed by a celebration or defeat animation and audio.
 
 {{< videoRow >}}
     <video class="video" controls="yes" loop muted autoplay>
@@ -30,4 +31,4 @@ Finalmente, una vez el usuario ha ganado o perdido la partida se le muestra una 
     </video>
 {{< /videoRow >}}
 
-Tecnologías: React Native, Expo & Nativewind (Tailwind)
+Tech stack: React Native, Expo & Nativewind (Tailwind)
