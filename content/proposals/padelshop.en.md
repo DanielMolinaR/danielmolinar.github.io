@@ -59,7 +59,7 @@ Timeline would be as follows:
 
 ### Payment & Terms
 
-From the current defined scope of work and deliverables the broken value of this proposal on a basis of 80€/h would look like:
+From the current defined scope of work and deliverables the broken compensation of this proposal on a basis of 80€/h would look like:
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Timeline would be as follows:
 
 ### Payment & Terms
 
-From the current defined scope of work and deliverables the broken value of this proposal on a basis of 75€/h would look like:
+From the current defined scope of work and deliverables the broken compensation of this proposal on a basis of 75€/h would look like:
 
 <div align="center">
 
@@ -152,3 +152,4 @@ From the current defined scope of work and deliverables the broken value of this
    - *Unexpected impediments and/or problems*
 
 A full year of maintenance at a reduced hourly rate of 60€ Excl. VAT is included. After one year the new hourly rate would need to be rearranged.
+
