@@ -57,7 +57,7 @@ Timeline would be as follows:
    - **<ins>Phase 2:</ins>** Design, Data management & Development
    - **<ins>Phase 3:</ins>** Website Launch & Knowledge transfer
 
-### Payment & Terms
+### Compensation
 
 From the current defined scope of work and deliverables the broken compensation of this proposal on a basis of 80€/h would look like:
 
@@ -118,7 +118,7 @@ Timeline would be as follows:
    - **<ins>Phase 7:</ins>** Administrator panel development
    - **<ins>Phase 8:</ins>** Final Service & Website release
 
-### Payment & Terms
+### Compensation
 
 From the current defined scope of work and deliverables the broken compensation of this proposal on a basis of 75€/h would look like:
 
@@ -153,3 +153,20 @@ From the current defined scope of work and deliverables the broken compensation 
 
 A full year of maintenance at a reduced hourly rate of 60€ Excl. VAT is included. After one year the new hourly rate would need to be rearranged.
 
+## Terms & Termination:
+
+- Scope Of Project: Padelshop will be provided with fullstack development services in accordance to what is outlined in the 'Scope of Work, Timeline & Phases' section of this proposal.
+- Maintenance: From the end of the development a full year of maintenance at a reduced hourly rate defined in the proposal's 'Compensation' section is provided. After one year the new hourly rate would need to be rearranged.
+- Copyright: Padelshop will own the copyright for all material created under this agreement.
+- Confidentiality: Business information provided will only be used to complete the agreed upon work, and will not be disclosed to any outside parties unless required and authorized to complete the work under this agreement.
+- Non-Exclusivity: Similar services might be provided to other businesses during the term of this agreement, and Padelshop may commission other contractors to provide similar services as well.
+- Disclosure: This project and the results achieved may be publicly acknowledge for the purpose of marketing personal services, with the approval of the Padelshop team.
+- Expenses: Padelshop agrees to reimburse for any extra expense incurred in providing the services where Padelshop has specifically authorized the expense.
+- Payment: Padelshop will receive an invoice at the end of each delivery for the amount outlined in the "Compensation" section of this proposal based on the work completed in that period. Padelshop agrees to make payment within 15 days of receiving the invoice made via the terms outlined in the invoice.
+- Termination: This agreement may be terminated with 14 days written notice by either party. Should the termination occur part way through with this project, payment for the project will be calculated on a prorated basis for the work that has been already completed.
+
+## Conclusion
+
+With the above presented proposals, hereby is offered the development of an excelling implementation into Padelshop's line of business. This will translate into the improvement of Padelshop's customer loyalty, sales funnel and competitor differentiation. Please do not hesitate to reach out with any questions you have or clarifications you would like to discuss in an online meeting. I look forward to hearing back and working together in refining this proposal on our best needs!
+
+Daniel Molina Rubio - daniel.molina.rub@gmail.com
