@@ -36,7 +36,7 @@ Either of both approaches can be successfully met due to the set of skills used 
 
 ## Proposal #1:
 
-This proposal encapsulates the development of the user interface including the filter, the graph and the list of products in a responsive way, meaning an usable and reliable interface for multiple devices. Some functionalities won't be developed due to the way this approach such as the administrator panel for managing the showing rackets. The displayed data will come from a file injected into the website through code. This solution would be part of the current padelshop website, and it won't need any additional hosting platform.
+This proposal encapsulates the development of the user interface including the filter, the graph and the list of products in a responsive way, meaning a usable and reliable interface for multiple devices. Some functionalities won't be developed due to this approach, such as, the administrator panel for managing the shown rackets. The displayed data will come from a file injected into the website through code. This solution would be part of the current padelshop website, and it won't need any additional hosting platform.
 
 ### Scope of work, Timeline & Phases
 
