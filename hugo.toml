@@ -82,7 +82,7 @@ languageName = "EN"
 author = "Daniel Molina"
 info = ["Application Developer"]
 description = "Daniel Molina's personal website"
-keywords = "blog,develoepr,personal"
+keywords = "blog,developer,personal"
 
 [[languages.en.menu.main]]
 name = "Experience"
@@ -90,7 +90,7 @@ weight = 1
 url = "experience/"
 
 [[languages.en.menu.main]]
-name = "Projetcs"
+name = "Projects"
 weight = 2
 url = "projects/"
 

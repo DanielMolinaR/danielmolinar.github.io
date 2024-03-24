@@ -79,7 +79,7 @@ From the current defined scope of work and deliverables the broken value of this
    - *Additional remarks*
    - *Unexpected impediments and/or problems*
 
-A full year of maintenance at a reduced hourly rate of 70€ is included. After one year the new hourly rate would need to be rearranged.
+A full year of maintenance at a reduced hourly rate of 70€ Excl. VAT is included. After one year the new hourly rate would need to be rearranged.
 
 ## Proposal #2
 
@@ -92,7 +92,7 @@ This second proposal is based on improvements and added features that could be o
 
 ### Scope of work, Timeline & Phases
 
-This solution is more time extensive but a better approach from the engineering point of view since it will give the client full control of the data and decouple himself from the need of someone with IT knowledge. The process is summed up into two deliverables, the first one would be the user interface with the filter, graph and list of rackets and a second one which will include the rackets creation from the website and the administrator panel for the management of the data. For most of the development a Shopify account will be needed, and a new host platform will be required for the external API/service and Database at the end of the first deliverable.
+This solution is more time extensive but a better approach from the business point of view since it will give the client full control of the data and decouple himself from the need of someone with IT knowledge. The process is summed up into two deliverables, the first one would be the user interface with the filter, graph and list of rackets and a second one which will include the rackets creation from the website and the administrator panel for the management of the data. For most of the development a Shopify account will be needed, and a new host platform will be required for the external API/service and Database at the end of the first deliverable.
 
 The following is a list of the deliverables included in the service proposal:
 
@@ -151,4 +151,4 @@ From the current defined scope of work and deliverables the broken value of this
    - *Additional remarks*
    - *Unexpected impediments and/or problems*
 
-A full year of maintenance at a reduced hourly rate of 60€ is included. After one year the new hourly rate would need to be rearranged.
+A full year of maintenance at a reduced hourly rate of 60€ Excl. VAT is included. After one year the new hourly rate would need to be rearranged.
