@@ -140,7 +140,7 @@ From the current defined scope of work and deliverables the broken value of this
 | Administrator panel Development        |   75   |   12 hours   |   900€   |
 | Final Service & Website release        |   75   |    5 hours   |    375€    |
 
-<p align="center" style="text-align: center; font-size: 20px;"><span style="background-color:yellow;"> Total: 103 hours x 75€ = 7.725€ Excl. VAT </span>
+<p align="center" style="text-align: center; font-size: 20px;"><span style="background-color:yellow; color:black;"> Total: 103 hours x 75€ = 7.725€ Excl. VAT </span>
 
 <p align="center" style="text-align: center; font-size: 12px;">*Due to the need of a new hosting platform an additional estimated amount of 20€/month would be paid by the client
 
