@@ -40,7 +40,7 @@ This proposal encapsulates the development of the user interface including the f
 
 ### Scope of work, Timeline & Phases
 
-This solution would be summed up into one final deliverable which will be the user interface integrated and functional into padelshop. For that, during all the development a shopify account of the website would be needed.
+This solution would be summed up into one final deliverable which will be the user interface integrated and functional into padelshop's website. For that, during all the development a shopify account of the website would be needed.
 
 The following is a list of the deliverables included in the service proposal:
 
@@ -79,18 +79,20 @@ From the current defined scope of work and deliverables the broken value of this
    - *Additional remarks*
    - *Unexpected impediments and/or problems*
 
+A full year of maintenance at a reduced hourly rate of 70€ is included. After one year the new hourly rate would need to be rearranged.
+
 ## Proposal #2
 
-This second proposal is based on improvements and added features that could be of interest to you. The solution includes the approach defined in [Proposal #1](http://danielmolinar.github.io/en/proposals/padelshop/#proposal-1) and the development of an external API/service which will provide one point of access and management to the data of the rackets which will be stored in a database. This approach has added value such as: 
+This second proposal is based on improvements and added features that could be of interest to the client. The solution includes the approach defined in [Proposal #1](http://danielmolinar.github.io/en/proposals/padelshop/#proposal-1) and the development of an external API/service which will provide one point of access and management to the data of the rackets which will be stored in a database. This approach has added value such as: 
 
-   - Rackets and data management from an administrator portal where only you will have access allowing you to have full control over the shown rackets and the data without the need of IT knowledge.
+   - Rackets and data management from an administrator portal where only the client will have access allowing him to have full control over the shown rackets and the data without the need of IT knowledge.
    - Users will be able to create and delete custom rackets into their own graph.
-   - Logging and monitoring will be build for better maintenance and error solving as well as security rules.
+   - Logging and monitoring will be built for better maintenance and error solving as well as security rules.
    - Enabling a new world of future developments and additional features (i.e. storing which filters the user has applied for the creation of customized newsletters and more).
 
 ### Scope of work, Timeline & Phases
 
-This solution is more time extensive but a better approach from the engineering point of view since it will give you full control of the data and decouple yourself from the need of someone with IT knowledge. The process is summed up into two deliverables, the first one would be the user interface with the filter, graph and list of rackets and a second one which will include the rackets creation from the website and the administrator panel for the management of the data. For most of the development a Shopify account will be needed, and a new host platform will be required for the external API/service and Database at the end of the first deliverable.
+This solution is more time extensive but a better approach from the engineering point of view since it will give the client full control of the data and decouple himself from the need of someone with IT knowledge. The process is summed up into two deliverables, the first one would be the user interface with the filter, graph and list of rackets and a second one which will include the rackets creation from the website and the administrator panel for the management of the data. For most of the development a Shopify account will be needed, and a new host platform will be required for the external API/service and Database at the end of the first deliverable.
 
 The following is a list of the deliverables included in the service proposal:
 
@@ -148,3 +150,5 @@ From the current defined scope of work and deliverables the broken value of this
    - *Not planned meetings*
    - *Additional remarks*
    - *Unexpected impediments and/or problems*
+
+A full year of maintenance at a reduced hourly rate of 60€ is included. After one year the new hourly rate would need to be rearranged.
