@@ -70,7 +70,7 @@ From the current defined scope of work and deliverables the broken value of this
 | Data Management        |   80  |  4 hours |  320€ |
 | Development & Launch   |   80  | 40 hours | 3.200€ |
 
-<p align="center" style="text-align: center; font-size: 20px;"><span style="background-color:yellow;"> Total: 55 hours x 80€ = 4.400€ Excl. VAT</span></p>
+<p align="center" style="text-align: center; font-size: 20px;"><span style="background-color:yellow; color:black;"> Total: 55 hours x 80€ = 4.400€ Excl. VAT</span></p>
 
 </div>
 
