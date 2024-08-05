@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documents on &lt;Daniel Molina/&gt;</title>
+    <link>http://localhost:1313/en/documents/</link>
+    <description>Recent content in Documents on &lt;Daniel Molina/&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/documents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/en/documents/privacy-policy/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/documents/privacy-policy/</guid>
+      <description>By using the app Crazy Pit Stop you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.&#xA;Collection of Personal Information&#xA;We do not collect, store, use or share any information, personal or otherwise.&#xA;Email&#xA;If you email the developer for support or other feedback, the emails with email addresses will be retained for quality assurance purposes. The email addresses will be used only to reply to the concerns or suggestions raised and will never be used for any marketing purpose.</description>
+    </item>
+  </channel>
+</rss>

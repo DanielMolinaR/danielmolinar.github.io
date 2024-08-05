@@ -1,23 +1,23 @@
 +++
-title = 'Privacy Policy'
+title = 'Política de privacidad'
 date = 2024-08-05
 draft = false
 +++
 
-By using the app **Crazy PitStop** you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
+Al utilizar la aplicación **Crazy Pit Stop**, usted acepta nuestras políticas con respecto a la recopilación, el uso y la divulgación de información personal establecidas en esta política de privacidad.
 
-**Collection of Personal Information**
+**Recopilación de información personal**
 
-We do not collect, store, use or share any information, personal or otherwise.
+No recopilamos, almacenamos, usamos ni compartimos ninguna información, personal o de otro tipo.
 
-**Email**
+**Correo electrónico**
 
-If you email the developer for support or other feedback, the emails with email addresses will be retained for quality assurance purposes. The email addresses will be used only to reply to the concerns or suggestions raised and will never be used for any marketing purpose.
+Si envía un correo electrónico al desarrollador para solicitar asistencia u otros comentarios, los correos electrónicos con las direcciones de correo electrónico se conservarán con fines de control de calidad. Las direcciones de correo electrónico se utilizarán solo para responder a las inquietudes o sugerencias planteadas y nunca se utilizarán para ningún propósito de marketing.
 
-**Disclosure of Personal Information**
+**Divulgación de información personal**
 
-We will not disclose your information to any third party except if you expressly consent or where required by law.
+No divulgaremos su información a ningún tercero, excepto si usted da su consentimiento expreso o cuando lo exija la ley.
 
-**Contacting Us**
+**Cómo contactarnos**
 
-If you have any questions regarding this privacy policy, you can email daniel.molina.rub@gmail.com
+Si tiene alguna pregunta con respecto a esta política de privacidad, puede enviar un correo electrónico a daniel.molina.rub@gmail.com

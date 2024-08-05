@@ -17,9 +17,29 @@
   </url><url>
     <loc>http://localhost:1313/documents/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/documents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/documents/"
+                />
   </url><url>
     <loc>http://localhost:1313/documents/privacy-policy/</loc>
     <lastmod>2024-08-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/documents/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/documents/privacy-policy/"
+                />
   </url><url>
     <loc>http://localhost:1313/projects/crazy-pit-stop/</loc>
     <lastmod>2024-03-03T17:20:16+01:00</lastmod>
